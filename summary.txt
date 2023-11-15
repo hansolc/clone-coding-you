@@ -1,3 +1,8 @@
 231112
 - emotion 패키지 추가
     - 패키지 추가 중 발생한 오류 해결 (tsconfig파일 수정, pragma 선언으로 해결)
+
+231116
+- components/header 헤더 컴포넌트 추가
+- Emotion사용을 위한 pragma에 관련된 babel 적용 필요
+- Global Theme 설정을 위한 공부 필요
